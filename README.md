@@ -10,3 +10,4 @@ This is a Streamlit web application that predicts the likelihood of heart diseas
 - Deployed publicly using Streamlit Cloud
 
 **Live Demo**
+-https://caretoheart-j9bvqiohvkfvumvsbqxkaw.streamlit.app/
