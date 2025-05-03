@@ -9,5 +9,4 @@ This is a Streamlit web application that predicts the likelihood of heart diseas
 - Provides instant prediction (Heart Disease: Yes/No)
 - Deployed publicly using Streamlit Cloud
 
-**Live Demo**
--https://caretoheart-j9bvqiohvkfvumvsbqxkaw.streamlit.app/
+**Live Demo**: https://caretoheart-j9bvqiohvkfvumvsbqxkaw.streamlit.app/
